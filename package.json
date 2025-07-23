@@ -1,0 +1,23 @@
+{
+  "name": "my-website-a",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SB-Hardik-Solanki/my-website-a.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SB-Hardik-Solanki/my-website-a/issues"
+  },
+  "homepage": "https://github.com/SB-Hardik-Solanki/my-website-a#readme",
+  "dependencies": {
+    "astro": "^5.12.2"
+  }
+}
